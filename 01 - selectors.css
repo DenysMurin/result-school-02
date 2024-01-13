@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+body {
+  background: grey;
+}
+.card {
+  padding: 10px;
+  background: white;
+  /* margin-bottom: 10px; */
+}
+.card p {
+  font-size: 24px;
+}
+.css {
+  background: orange;
+  color: white;
+}
+.html {
+  background: lightcoral;
+  color: #eea;
+}
+#header {
+  background: #efa;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+#header,
+.card {
+  margin-bottom: 10px;
+}
