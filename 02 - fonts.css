@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: "roboto";
+  font-size: 24px;
+  line-height: 1.6em;
+  font-weight: 400;
+  /* text-decoration: underline; */
+  /* font-style: italic; */
+  letter-spacing: 2px;
+  /* word-spacing: 20px; */
+}
+.css p {
+  font-size: 14px;
+  font-weight: bold;
+}
