@@ -1,0 +1,32 @@
+a {
+  color: #333;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+a:hover {
+  color: red;
+  /* font-size: 2rem; */
+}
+/* visited может не работать */
+a:visited {
+  color: blue;
+}
+a:active {
+  color: blue;
+}
+.css:hover {
+  background: red;
+}
+.button {
+  background: lightsalmon;
+  padding: 15px 20px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: inherit;
+}
+.button:hover {
+  opacity: 0.8;
+  color: green;
+}
